@@ -17,7 +17,7 @@ Overall, the process for this project was simple. The steps to complete this pro
 1. Figure out a problem
 2. Determing if the data was attainable through the web or if scraping was needed
 3. Munging the data
-  - because of the size of the dataset, and the features that came with it, only use about 10% of the data could be used for github. also, data leakage was extremely easy to happen. As one could find [here](https://github.com/JMWJ/Predicting_NFL_Plays/blob/master/code/Cleaning.ipynb), many columns were dropped that would have had a direct impact on the predictions being guided by leaks.
+  * because of the size of the dataset, and the features that came with it, only use about 10% of the data could be used for github. also, data leakage was extremely easy to happen. As one could find [here](https://github.com/JMWJ/Predicting_NFL_Plays/blob/master/code/Cleaning.ipynb), many columns were dropped that would have had a direct impact on the predictions being guided by leaks.
 4. Analysis on the data
 5. Modeling
 6. Post modeling EDA to gain further knowledge
